@@ -1,0 +1,36 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luongtopp/learn_nodejs-blog.git"
+  },
+  "keywords": [
+    "f8",
+    "f8",
+    "nodejs",
+    "nodejs",
+    "luongtopp",
+    "learn",
+    "nodejs"
+  ],
+  "author": "luongtopp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luongtopp/learn_nodejs-blog/issues"
+  },
+  "homepage": "https://github.com/luongtopp/learn_nodejs-blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
